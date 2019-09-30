@@ -1,0 +1,23 @@
+body {
+    background: #eee !important;
+  }
+  
+  .wrapper {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    .generate{
+        max-width: 380px;
+        padding: 15px 35px 45px;
+        margin: 0 auto;
+        background-color: #fff;
+            .form-check{
+                padding: 1rem !important;
+                font-size: inherit;
+            }
+            button{
+                padding: .3rem ;
+            }
+      }
+  }
+  
+  
